@@ -20,7 +20,7 @@ body {
 }
 
 p {
-    color: #a20358;
+    color: #b91a6f;
 }
 
 h2 {
@@ -59,4 +59,15 @@ aside {
     border-radius: 6px;
     height: 80%;
     width: 25%;
+}
+
+footer {
+    background-color: #a8a3a3;
+    border-radius: 6px;
+    margin: 10px 0;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
