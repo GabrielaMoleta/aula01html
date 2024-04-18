@@ -15,7 +15,7 @@
 body {
     background-color: #000000;
     font-family: "Poppins", sans-serif;
-    color: #000000d3;
+    color: #f9f7f7d3;
     padding: 10px;
 }
 
@@ -28,7 +28,7 @@ h2 {
 }
 
 header {
-    background-color: #c8c7c8;
+    background-color: #a8a3a3;
     backdrop-filter: blur(10px);
     margin: 10px 0;
     border-radius: 6px;
@@ -70,4 +70,16 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+footer p {
+    font-size: 1 .2rem;
+    color: #f3f3f3;
+}
+
+footer a {
+    color: #b91a6f;
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom: 1px solid #b91a6f;
 }
